@@ -8,15 +8,15 @@ previous: livre-2-de-la-personne
 next: livre-4-des-successions-et-des-liberalites
 ---
 
-# LIVRE III DE LA FAMILLE
+### CODE DE – LA FAMILLE DE LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
+# LIVRE III – DE LA FAMILLE
 
-## TITRE I DU MARIAGE
 ___
 
-### CHAPITRE I DES REGLES GENERALES
-____
+## TITRE I – DU MARIAGE
+### CHAPITRE I – DES REGLES GENERALES
 
-#### Section I Des caractères généraux du mariage
+#### Section I – Des caractères généraux du mariage
 
 ###### Article 330
 
@@ -36,7 +36,7 @@ L’union qui n’a été conclue que selon les prescriptions d’une confession
 
 Toute disposition contraire est nulle et de nul effet.
 
-#### Section II De la liberté du mariage
+#### Section II – De la liberté du mariage
 
 ###### Article 334
 
@@ -80,10 +80,10 @@ La jouissance des biens visés à l’article [327](#article-327) ci-dessus cess
 2. par les causes qui mettent fin à l’autorité parentale ou, même plus spécialement, par celles qui mettent fin à l’administration légale ;
 3. par les causes qui comportent l’extinction de tout usufruit.
 
-### CHAPITRE II DES FIANCAILLES
+### CHAPITRE II – DES FIANCAILLES
 ___
 
-#### Section I Des dispositions générales
+#### Section I – Des dispositions générales
 
 ###### Article 337
 
@@ -112,7 +112,7 @@ Les fiançailles ne donnent lieu à aucune inscription dans les registres de l�
 
 Les fiançailles peuvent être prouvées par toutes voies de droit.
 
-#### Section II Des effets des fiançailles
+#### Section II – Des effets des fiançailles
 
 ###### Article 342
 
@@ -148,10 +148,10 @@ Sans préjudice des dispositions de l’article [346](#article-346) ci-dessus, l
 Toute action fondée sur la rupture des fiançailles doit, à peine de forclusion, être intentée dans le délai d'un an à partir du jour où les fiançailles ont été rompues.
 
 
-### CHAPITRE III DE LA FORMATION DU MARIAGE
+### CHAPITRE III – DE LA FORMATION DU MARIAGE
 ____
 
-#### Section I Du but du mariage
+#### Section I – Du but du mariage
 
 ###### Article 349
 
@@ -162,9 +162,9 @@ Le mariage a pour but essentiel de créer une union entre un homme et une femme 
 Est nulle toute stipulation visant à écarter l'une des fins essentielles du mariage.
 
 
-#### Section II Des conditions de fond
+#### Section II – Des conditions de fond
 
-##### Paragraphe 1 : Du consentement des époux
+##### Paragraphe 1 – Du consentement des époux
 
 ###### Article 351
 
@@ -172,7 +172,7 @@ Chacun des futurs époux doit personnellement consentir au mariage.
 
 Toutefois, que le mariage soit célébré en famille ou devant l’officier de l’état civil, la représentation par mandataire peut être autorisée pour juste motif par le juge de paix.
 
-##### Paragraphe 2 : De la capacité de contracter mariage
+##### Paragraphe 2 – De la capacité de contracter mariage
 
 ###### Article 352
 
@@ -218,7 +218,7 @@ L’enfant, même émancipé, ne peut contracter mariage.
 
 > *Abrogé par la [Loi n° 16/008 du 15 juillet 2016](#)* 
 
-##### Paragraphe 3 : De la dot
+##### Paragraphe 3 – De la dot
 
 ###### Article 361
 
@@ -272,7 +272,7 @@ S’il y a un accord, le tribunal prend une décision qui l’entérine. Dans le
 Le montant de la dot ainsi versé et non recueilli sera, après un an à dater de l’acte de mariage, soumis aux règles relatives aux offres réelles et à la consignation.
 
 
-#### Section III Des conditions de forme Paragraphe 1 : Des règles générales
+#### Section III – Des conditions de forme Paragraphe 1 : Des règles générales
 
 ###### Article 368
 
@@ -281,7 +281,7 @@ Le mariage peut également être célébré par l'officier de l'état civil selo
 
 En ce cas, l'officier de l'état civil dresse aussitôt un acte de mariage.
 
-##### Paragraphe 2 : De la célébration du mariage en famille et de son enregistrement
+##### Paragraphe 2 – De la célébration du mariage en famille et de son enregistrement
 
 ###### Article 369
 
@@ -377,7 +377,7 @@ La filiation d'enfants nés d'un mariage célébré en famille, mais non enregis
 
 Est irrecevable, la demande en versement du solde de la dot pour un mariage célébré en famille, s'il n'est pas enregistré.
 
-##### Paragraphe 3 : De la célébration du mariage par l’officier de l'état civil.
+##### Paragraphe 3 – De la célébration du mariage par l’officier de l'état civil.
 
 ###### Article 383
 
@@ -480,9 +480,9 @@ A la diligence de l’officier de l’état civil ayant célébré ou enregistr�
 Lorsque l’avis de la mention faite n’est pas revenu dans les trois mois de l’envoi de la notification, l’officier de l’état civil en rend compte sans délai au Procureur de la République près le Tribunal de grande instance du ressort dans lequel il se trouve.
 
 
-#### Section IV Des sanctions des conditions du mariage
+#### Section IV – Des sanctions des conditions du mariage
 
-##### Paragraphe 1 : Des règles générales et communes
+##### Paragraphe 1 – Des règles générales et communes
 
 ###### Article 394
 
@@ -527,7 +527,7 @@ Le tribunal s'inspire des règles prescrites pour la liquidation des rapports en
 
 Le dispositif du jugement prononçant la nullité du mariage est transcrit et mentionné en marge de l'acte de mariage et de l'acte de naissance des anciens époux.
 
-##### Paragraphe 2 : De l'absence et du vice de consentement
+##### Paragraphe 2 – De l'absence et du vice de consentement
 
 ###### Article 402
 
@@ -553,7 +553,7 @@ Si le consentement n'a été donné que par suite d'une erreur sur une qualité 
 
 Le mariage ne peut plus être attaqué six mois après que l'erreur a été découverte et, en toute hypothèse, deux ans après que le mariage a été célébré.
 
-##### Paragraphe 3 : Du défaut de capacité
+##### Paragraphe 3 – Du défaut de capacité
 
 ###### Article 406
 
@@ -665,7 +665,7 @@ Est puni des peines prévues à l’article [395](#article-395) alinéa 1er de l
 
 Sont punis des mêmes peines, le conjoint de l’interdit et les personnes qui auront été témoins de ce mariage.
 
-##### Paragraphe 4 : Des sanctions relatives à la dot
+##### Paragraphe 4 – Des sanctions relatives à la dot
 
 ###### Article 426
 
@@ -679,7 +679,7 @@ Est puni des peines prévues à l’alinéa 1er, quiconque a, dans les mêmes ci
 
 Est puni des peines prévues à l’alinéa 1er, quiconque agissant comme intermédiaire, a participé à la commission des infractions prévues au présent article.
 
-##### Paragraphe 5 : De la violation des conditions de forme
+##### Paragraphe 5 – De la violation des conditions de forme
 
 ###### Article 428
 
@@ -710,10 +710,10 @@ La nullité du mariage ne peut être prononcée en raison de telles circonstance
 Peuvent être punis d’une peine d’amende de 60.000 à 250.000 francs congolais, les époux qui n’ont pas fait enregistrer leur mariage conformément aux articles [370](#article-370) et [378](#article-378) de la présente loi.
 
 
-### CHAPITRE IV DE LA PREUVE DU MARIAGE
+### CHAPITRE IV – DE LA PREUVE DU MARIAGE
 ___
 
-#### Section I Des principes généraux
+#### Section I – Des principes généraux
 
 ###### Article 433
 
@@ -729,7 +729,7 @@ Il appartient à celui qui allègue leur fausseté d'établir à leur encontre s
 
 Il appartient à celui qui allègue qu'un mariage a été déclaré nul ou a été dissout d'en apporter la preuve.
 
-#### Section II Des actes de mariage
+#### Section II – Des actes de mariage
 
 ###### Article 436
 
@@ -739,7 +739,7 @@ La preuve du mariage se fait ordinairement par la production de l'acte de mariag
 
 Les dispositions relatives à l'état civil sont applicables à la célébration et à l'enregistrement du mariage.
 
-#### Section III Des autres preuves du mariage
+#### Section III – Des autres preuves du mariage
 
 ###### Article 438
 
@@ -758,16 +758,16 @@ Cet acte de notoriété est soumis aux règles relatives à l'état civil.
 Si la preuve de la célébration ou de l'enregistrement d'un mariage résulte d'une décision répressive, l'inscription de celle-ci sur les registres de l'état civil tient lieu de célébration ou d'enregistrement.
 
 
-### CHAPITRE V DES EFFETS DU MARIAGE
+### CHAPITRE V – DES EFFETS DU MARIAGE
 ___
 
-#### Section I De la règle générale et commune
+#### Section I – De la règle générale et commune
 
 ###### Article 441
 
 Tous les mariages produisent les mêmes effets, qu'ils aient été enregistrés ou célébrés.
 
-#### Section II Du ménage
+#### Section II – Du ménage
 
 ###### Article 442
 
@@ -820,9 +820,9 @@ L’accord du conjoint n’est pas nécessaire dans les cas suivants :
 
 La nullité fondée sur le défaut d’accord ne peut être évoquée que par l’un des conjoints ou leurs héritiers.
 
-#### Section III Des effets extrapatrimoniaux du mariage
+#### Section III – Des effets extrapatrimoniaux du mariage
 
-##### Paragraphe 1 : Des droits et obligations réciproques des époux
+##### Paragraphe 1 – Des droits et obligations réciproques des époux
 
 ###### Article 453
 
@@ -891,7 +891,7 @@ La convocation mentionne l'objet de la requête.
 
 L'ordonnance rendue en vertu des alinéas précédents est, à la diligence de l'époux qui l'a obtenue, notifiée par le greffier à l'autre époux.
 
-##### Paragraphe 2 : De l’exécution des devoirs réciproques des époux
+##### Paragraphe 2 – De l’exécution des devoirs réciproques des époux
 
 ###### Article 464
 
@@ -947,7 +947,7 @@ Est puni des peines prévues en cas d’adultère, sauf si sa bonne foi a été 
 1. quiconque aura enlevé, même avec son consentement, une personne mariée ou l’aura détournée de ses devoirs, afin de faciliter ou permettre à cette personne des rapports adultères ;
 2. quiconque aura caché ou gardé cette personne avec la même intention.
 
-#### Section IV Des effets patrimoniaux du mariage
+#### Section IV – Des effets patrimoniaux du mariage
 
 **Sous-section I Des dispositions générales: Règles**
 
@@ -1028,7 +1028,7 @@ L'autorisation est demandée par requête adressée au tribunal.
 
 **Sous-section II Des régimes matrimoniaux**
 
-##### Paragraphe 1 : Des dispositions communes à tous les régimes matrimoniaux
+##### Paragraphe 1 – Des dispositions communes à tous les régimes matrimoniaux
 
 ###### Article 487
 
@@ -1140,7 +1140,7 @@ Le partage de l'actif et du passif se réalisera quant aux biens communs ou pré
 
 Après le partage définitif, les anciens époux ou l'époux survivant restent tenus des obligations de garde, d'entretien et d'éducation de leurs enfants en proportion de leurs facultés et de leur état actuel
 
-##### Paragraphe 2 : Des dispositions particulières.
+##### Paragraphe 2 – Des dispositions particulières.
 
 **A. Du régime de la séparation des biens.**
 
@@ -1343,10 +1343,10 @@ A la dissolution du mariage, les biens propres restent dans le patrimoine de l'�
 
 > *Abrogé par la [Loi n° 16/008 du 15 juillet 2016](#)*
 
-### CHAPITRE VI DE LA DISSOLUTION DU MARIAGE
+### CHAPITRE VI – DE LA DISSOLUTION DU MARIAGE
 ___
 
-#### Section I Des règles générales et des renvois
+#### Section I – Des règles générales et des renvois
 
 ###### Article 538
 
@@ -1363,7 +1363,7 @@ Le mariage se dissout:
 
 Les effets du jugement déclaratif de décès de l'absent sont régis par les dispositions relatives à l'état civil.
 
-#### Section II De la dissolution du mariage par la mort de l'un des époux
+#### Section II – De la dissolution du mariage par la mort de l'un des époux
 
 ###### Article 541
 
@@ -1388,9 +1388,9 @@ Sont proscrites les coutumes prescrivant le payement d’une indemnité de déc�
 Est puni d’une servitude pénale principale ne dépassant pas un mois et d’une amende de 125.000 à 600.000 francs congolais ou de l’une de ces peines seulement, quiconque aura exigé ou perçu une indemnité de décès.
 
 
-#### Section III Du divorce
+#### Section III – Du divorce
 
-##### Paragraphe 1 : Des règles générales et communes
+##### Paragraphe 1 – Des règles générales et communes
 
 ###### Article 546
 
@@ -1404,7 +1404,7 @@ La dissolution du mariage par les autorités coutumières ou familiales est sans
 
 La dissolution d'un mariage célébré en famille mais non enregistré sera prononcé conformément aux dispositions de l'article [380](#article-380) et à celles de la présente section.
 
-##### Paragraphe 2 : Des circonstances donnant droit à demander le divorce
+##### Paragraphe 2 – Des circonstances donnant droit à demander le divorce
 
 ###### Article 549
 
@@ -1424,7 +1424,7 @@ La séparation unilatérale qui s'est prolongée pendant trois ans au moins cons
 
 L'absence, telle que définie à l'article [176](#article-176), qui s'est prolongée pendant deux ans ainsi que la déclaration d'absence intervenue conformément aux articles [187](#article-187) et [suivants](#article-suivants), constituent une présomption irréfragable de la destruction irrémédiable de l'union conjugale.
 
-##### Paragraphe 3 : De la procédure du divorce
+##### Paragraphe 3 – De la procédure du divorce
 
 1. **Des règles de principe**
 ###### Article 553
@@ -1603,7 +1603,7 @@ Le jugement prend effet à dater:
 2. du jour de la requête en divorce en ce qui concerne les rapports matrimoniaux entre les époux;
 3. du jour de sa mention en marge de l'acte de naissance en ce qui concerne les tiers.
 
-##### Paragraphe 4 : Des effets du divorce
+##### Paragraphe 4 – Des effets du divorce
 
 ###### Article 578
 
@@ -1672,11 +1672,11 @@ Lorsque le tribunal prend une décision se rapportant aux enfants mineurs, il le
 
 ___
 
-## TITRE II DE LA FILIATION
+## TITRE II – DE LA FILIATION
 ___
 
 
-### CHAPITRE I DES DISPOSITIONS GENERALES
+### CHAPITRE I – DES DISPOSITIONS GENERALES
 ___
 
 ###### Article 590
@@ -1708,7 +1708,7 @@ La loi présume que l’enfant a été conçu pendant la période qui s'étend d
 La conception est présumée avoir lieu à un moment quelconque de cette période, suivant ce qui est demandé dans l'intérêt de l'enfant.
 
 
-### CHAPITRE II DE L'ETABLISSEMENT ET DE LA CONTESTATION DE LA FILIATION MATERNELLE
+### CHAPITRE II – DE L'ETABLISSEMENT ET DE LA CONTESTATION DE LA FILIATION MATERNELLE
 ___
 
 ###### Article 595
@@ -1750,14 +1750,14 @@ Il sera reçu à prouver la maternité en établissant qu’il a, à l’égard 
 La preuve contraire peut se faire par tout moyen. Les articles [595](#article-595) et [596](#article-596) de la présente loi s’appliquent, *mutatis mutandis*, à l’action en recherche de maternité.
 
 
-### CHAPITRE III DE L'ETABLISSEMENT ET DE LA CONTESTATION DE LA FILIATION PATERNELLE
+### CHAPITRE III – DE L'ETABLISSEMENT ET DE LA CONTESTATION DE LA FILIATION PATERNELLE
 ___
 
 ###### Article 601
 
 La filiation paternelle s'établit par la présomption légale en cas de mariage ou par une déclaration ou par une action en recherche de paternité.
 
-#### Section I De la présomption de paternité en cas de mariage.
+#### Section I – De la présomption de paternité en cas de mariage.
 
 ###### Article 602
 
@@ -1815,7 +1815,7 @@ Si l'action est exercée contre un enfant mineur, interdit ou hors d'état de ma
 
 Le tribunal de paix du lieu de résidence de l'enfant est seul compétent pour connaître de l'action en recherche ou en contestation de paternité.
 
-#### Section II De la déclaration obligatoire de paternité ou affiliation
+#### Section II – De la déclaration obligatoire de paternité ou affiliation
 
 ###### Article 614
 
@@ -1898,7 +1898,7 @@ Les membres de la famille maternelle de l’enfant peuvent exiger les indemnité
 
 Lors de la déclaration de l'affiliation, l'officier de l'état civil mentionne le montant des indemnités ou des présents versés à la famille maternelle de l'enfant, à l'occasion de l'affiliation ou l'absence de ceux- ci.
 
-#### Section III De l'action en recherche de paternité
+#### Section III – De l'action en recherche de paternité
 
 ###### Article 630
 
@@ -1964,7 +1964,7 @@ Lorsque l'action est déclarée fondée, le tribunal peut, à la demande de la m
 Toutefois, le père reste soumis aux dispositions de l'artic1e [614](#article-614) alinéa 4.
 
 
-### CHAPITRE IV DES REGLES RELATIVES AUX ACTIONS EN JUSTICE EN MATIERE DE FILIATION
+### CHAPITRE IV – DES REGLES RELATIVES AUX ACTIONS EN JUSTICE EN MATIERE DE FILIATION
 ___
 
 ###### Article 640
@@ -1994,7 +1994,7 @@ Les juges peuvent d'office ordonner lue soient mis en cause tous les intéressé
 Toute rectification des actes de l'état civil résultant d'un jugement rendu en matière de filiation suit les règles inscrites aux articles [105](#article-105) à [109](#article-109).
 
 
-### CHAPITRE V DES EFFETS DE LA FILIATION
+### CHAPITRE V – DES EFFETS DE LA FILIATION
 ___
 
 ###### Article 645
@@ -2014,7 +2014,7 @@ L'enfant d'un seul des conjoints dont la filiation a été établie pendant le m
 Les père et mère ont l'obligation de nourrir, entretenir et élever leurs enfants. A défaut par l'un d'eux de remplir cette obligation, l'autre ainsi que le ministère public ont une action en pension alimentaire.
 
 
-### CHAPITRE VI DU STATUT JURIDIQUE DE L'ENFANT DONT LA FILIATION PATERNELLE N'A PU ETRE ETABLIE
+### CHAPITRE VI – DU STATUT JURIDIQUE DE L'ENFANT DONT LA FILIATION PATERNELLE N'A PU ETRE ETABLIE
 ___
 
 ###### Article 649
@@ -2027,11 +2027,11 @@ La parenté juridique ne crée pas d'autres effets.
 
 ___
 
-## TITRE III DE L'ADOPTION
+## TITRE III – DE L'ADOPTION
 ___
 
 
-### CHAPITRE I DES PRINCIPES GENERAUX
+### CHAPITRE I – DES PRINCIPES GENERAUX
 ___
 
 ###### Article 650
@@ -2051,7 +2051,7 @@ L’adoption d’un enfant congolais par un étranger n’a lieu que si les auto
 
 Toute adoption est soumise à une enquête sociale préalable.
 
-###### Article 651 bis
+###### Article 651 – b
 
 En période de conflit ou post-conflit, ou dans les situations quelconques d’urgence, les enfants séparés ou non accompagnés ne peuvent faire l’objet d’une requête en adoption qu’après avoir été hébergés dans un établissement spécialisé en République Démocratique du Congo pendant au moins une année, moyennant avis du ministre de la justice, délibéré en Conseil des ministres et des procès-verbaux d’enquête retraçant :
 * les efforts fournis pour retrouver les parents de l’enfant et qui se sont avérés sans succès ;
@@ -2066,7 +2066,7 @@ Les dispositions relatives à l’adoption sont impératives.
 Un décret du Premier ministre, délibéré en Conseil des ministres, crée un organisme public chargé des adoptions.
 
 
-### CHAPITRE II DES CONDITIONS DE L'ADOPTION
+### CHAPITRE II – DES CONDITIONS DE L'ADOPTION
 ___
 
 ###### Article 653
@@ -2079,7 +2079,7 @@ Si cela s’avère matériellement irréalisable, l’adoption internationale de
 * l’adoptant est apte à adopter et à fournir à l’enfant un cadre d’épanouissement acceptable ;
 * l’adoptant a l’extrait de casier judiciaire vierge et est de moralité publique irréprochable.
 
-###### Article 653 bis
+###### Article 653 – b
 
 L’adoption internationale d’un enfant congolais ne peut être autorisée qu’à destination de l’Etat avec lequel la République Démocratique du Congo est liée par une Convention internationale en matière d’adoption au moment de la décision judiciaire.
 
@@ -2167,7 +2167,7 @@ L’adoptant doit avoir au moins quinze ans de plus que l’adopté.
 
 Toutefois, s’il adopte l’enfant de son conjoint, il faut qu’il ait dix ans de plus que l’adopté, sauf dispense accordée par le Gouverneur de province ou de la ville de Kinshasa.
 
-###### Article 668 bis
+###### Article 668 – b
 
 Les dispenses prévues aux articles [656](#article-656) et [668](#article-668) ci-dessus ne sont accordées, en cas d’adoption par un étranger, que par arrêté interministériel des ministres ayant les affaires étrangères, l’intérieur, la justice, la famille et l’enfant ainsi que les affaires sociales dans leurs attributions.
 
@@ -2176,7 +2176,7 @@ Les dispenses prévues aux articles [656](#article-656) et [668](#article-668) c
 L'adoption d'une personne par une autre, célibataire, veuve ou divorcée de sexe différent, ne peut être admise que si les circonstances la justifient.
 
 
-### CHAPITRE III DES FORMES D'ADOPTION
+### CHAPITRE III – DES FORMES D'ADOPTION
 ___
 
 ###### Article 670
@@ -2237,12 +2237,12 @@ Dans le délai d'un mois à compter du jour où la décision n'est plus suscepti
 Il est porté mention de l'adoption en marge de l'acte de naissance de l'adopté. Il sera délivré copie de l'acte d'adoption aux adoptants et à l'adopté.
 
 
-### CHAPITRE IV DES EFFETS ET DE LA REVOCATION DE L'ADOPTION
+### CHAPITRE IV – DES EFFETS ET DE LA REVOCATION DE L'ADOPTION
 ___
 
 ###### Article 676
 
-L'adoption produit ses effets à compter du jour du dépôt de la requête. L'adoption n'est opposable aux tiers qu'à partir de la transcription de la décision.##### Article 677
+L'adoption produit ses effets à compter du jour du dépôt de la requête. L'adoption n'est opposable aux tiers qu'à partir de la transcription de la décision.##### Article 6
 L'adopté est considéré à tous égards comme étant l'enfant de l'adoptant Il entre dans la famille de l'adoptant.
 
 ###### Article 678
@@ -2323,20 +2323,20 @@ L’officier de l’état civil en fait mention en marge de l’acte de l’adop
 
 Les effets de l’adoption cessent à partir du jour où le jugement de la révocation devient irrévocable.
 
-###### Article 691 bis
+###### Article 691 – b
 
 Un décret du premier ministre délibéré en Conseil de ministre fixe des mesures d’exécution des dispositions du présent titre.
 
 ___
 
-## TITRE IV DE LA PARENTE ET DE L'ALLIANCE
+## TITRE IV – DE LA PARENTE ET DE L'ALLIANCE
 ___
 
 
-### CHAPITRE I DE LA PARENTE ET DE L'ALLIANCE EN GENERAL
+### CHAPITRE I – DE LA PARENTE ET DE L'ALLIANCE EN GENERAL
 ___
 
-#### Section 1 Des règles générales
+#### Section 1 – Des règles générales
 
 ###### Article 692
 
@@ -2352,7 +2352,7 @@ Il n'est pas permis de déroger, par convention particulière, aux dispositions 
 
 Sauf disposition contraire, les articles [695](#article-695) à [713](#article-713) de la présente loi s’appliquent à toutes les dispositions législatives ou réglementaires du droit privé congolais.
 
-#### Section II De la parenté
+#### Section II – De la parenté
 
 ###### Article 695
 
@@ -2410,7 +2410,7 @@ La parenté se prouve conformément aux dispositions relatives à l'état civil.
 
 Sauf dispositions particulières, la parenté ne produit aucun effet au-delà du sixième degré en ligne collatérale.
 
-#### Section III De l'alliance
+#### Section III – De l'alliance
 
 ###### Article 704
 
@@ -2453,7 +2453,7 @@ L'alliance ne produit aucun effet au-delà du quatrième degré en ligne collat�
 Le lien d'alliance subsiste, en ligne directe et en ligne collatérale, malgré la dissolution du mariage par lequel il a été créé, sauf si la loi en dispose autrement.
 
 
-### CHAPITRE II DE L'AUTORITE DOMESTIQUE
+### CHAPITRE II – DE L'AUTORITE DOMESTIQUE
 ___
 
 ###### Article 712
@@ -2469,7 +2469,7 @@ Le chef de famille est responsable du dommage causé par les mineurs et interdit
 Il s'adresse au besoin à l'autorité compétente pour provoquer les mesures nécessaires.
 
 
-### CHAPITRE III DES DEVOIRS DECOULANT DE LA PARENTE ET DE L'ALLIANCE
+### CHAPITRE III – DES DEVOIRS DECOULANT DE LA PARENTE ET DE L'ALLIANCE
 ___
 
 ###### Article 714
@@ -2481,10 +2481,10 @@ Les parents et alliés se doivent mutuellement secours, assistance et respect co
 En cas de violation de l'article précédent, les articles [460](#article-460) à [463](#article-463) sont applicables, *mutatis mutandis*. En outre, le devoir de secours est régi par les dispositions de chapitre IV du présent titre.
 
 
-### CHAPITRE IV DE l'OBLIGATION ALIMENTAIRE
+### CHAPITRE IV – DE l'OBLIGATION ALIMENTAIRE
 ___
 
-#### Section I. Des dispositions générales
+#### Section I –. Des dispositions générales
 
 ###### Article 716
 
@@ -2492,9 +2492,9 @@ L'obligation alimentaire rend une personne débitrice d'une autre pour la satisf
 
 Elle résulte de la loi ou d'une convention et s'exécute dans les conditions prévues au présent chapitre. Le legs d'aliments est régi par les dispositions relatives aux testaments.
 
-#### Section II. De l'obligation alimentaire légale.
+#### Section II –. De l'obligation alimentaire légale.
 
-##### Paragraphe 1 : De l'objet de l'obligation alimentaire légale
+##### Paragraphe 1 – De l'objet de l'obligation alimentaire légale
 
 ###### Article 717
 
@@ -2510,7 +2510,7 @@ Celui qui est tenu, vis-à-vis d'une personne, de l'obligation alimentaire est �
 
 Celui qui a fait l'avance de ces frais peut en demander le remboursement au débiteur d'aliments.
 
-##### Paragraphe 2 : Des sujets de l'obligation alimentaire
+##### Paragraphe 2 – Des sujets de l'obligation alimentaire
 
 ###### Article 720
 
@@ -2548,7 +2548,7 @@ Sauf si le Tribunal pour enfants en décide autrement, le tuteur est tenu de fou
 
 L'aide fournie dans le cadre de la solidarité familiale à une personne envers qui on n'est pas tenu d'une obligation alimentaire peut, selon les circonstances, être considérée comme l'exécution d'une obligation naturelle.
 
-##### Paragraphe 3 : De la pluralité de débiteurs
+##### Paragraphe 3 – De la pluralité de débiteurs
 
 ###### Article 728
 
@@ -2569,7 +2569,7 @@ S'il existe plusieurs personnes du même rang tenues de l'obligation alimentaire
 
 Le débiteur qui a été condamné à payer la pension n'a aucun recours contre ses codébiteurs solidaires.
 
-##### Paragraphe 4 : Des conditions d'existence de l'obligation alimentaire
+##### Paragraphe 4 – Des conditions d'existence de l'obligation alimentaire
 
 ###### Article 730
 
@@ -2591,7 +2591,7 @@ L'obligation alimentaire n'est due que si la personne poursuivie a des ressource
 
 Le débiteur marié n'est tenu que sur ses biens propres et sur le produit de son propre travail ; lorsqu'il est marié sous un régime de communauté de biens, il est tenu solidairement avec son conjoint sur les biens communs.
 
-##### Paragraphe 5 : De la mise en œuvre de l'obligation alimentaire
+##### Paragraphe 5 – De la mise en œuvre de l'obligation alimentaire
 
 ###### Article 734
 
@@ -2681,7 +2681,7 @@ Les dispositions reprises aux articles [741](#article-741) à [748](#article-748
 
 De même, les dispositions reprises aux articles [481](#article-481) à [486](#article-486) organisant la délégation de perception des revenus et des créances en faveur d'un conjoint sont applicables en faveur de tous les créanciers d'aliments visés à ce présent titre.
 
-##### Paragraphe 6 : Des caractères de l'obligation alimentaire
+##### Paragraphe 6 – Des caractères de l'obligation alimentaire
 
 ###### Article 750
 
@@ -2706,7 +2706,7 @@ En cas de demande en justice, le créancier qui aura obtenu un jugement de conda
 Le présent article n'est pas d'application aux diverses obligations à caractère alimentaire régies par des dispositions particulières, notamment aux obligations réciproques des époux et aux obligations des père et mère envers leurs enfants.
 
 
-#### Section III De l'obligation alimentaire conventionnelle
+#### Section III – De l'obligation alimentaire conventionnelle
 
 ###### Article 753
 

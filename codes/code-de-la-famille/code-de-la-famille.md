@@ -11,9 +11,9 @@ icon: 'Users'
 
 ## TABLE DES MATIÈRES
 
-### [Exposé des motifs](/codes/code-de-la-famille/livre-1-de-la-nationalité)
+### [Exposé des motifs](/codes/code-de-la-famille/livre-1-de-la-nationalite)
 
-### [LIVRE Ier – DE LA NATIONALITÉ](/codes/code-de-la-famille/livre-1-de-la-nationalité)
+### [LIVRE Ier – DE LA NATIONALITÉ](/codes/code-de-la-famille/livre-1-de-la-nationalite)
 
 ##### CHAP. Ier – DES DISPOSITIONS GÉNÉRALES
 

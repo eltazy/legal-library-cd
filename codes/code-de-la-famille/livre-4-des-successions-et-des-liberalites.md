@@ -8,11 +8,11 @@ previous: livre-3-de-la-famille
 next: livre-5-des-dispositions-abrogatoires-modificatives-transitoires-et-finales
 ---
 
-## CODE DE LA FAMILLE
-
-# LIVRE IV DES SUCCESSIONS ET DES LIBÉRALITÉS
+### CODE DE LA FAMILLE DE LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
+# LIVRE IV – DES SUCCESSIONS ET DES LIBÉRALITÉS
 
 ---
+
 ## TITRE I – DES SUCCESSIONS
 
 ### CHAPITRE I – DES DISPOSITIONS GÉNÉRALES
@@ -269,7 +269,7 @@ La demande d’homologation du droit de reprise devra être introduite dans les 
 
 ### CHAPITRE VI – DES PRINCIPES REGISSANT L'ADMINISTRATION DE LA LIQUIDATION DE LA SUCCESSION
 
-#### Section 1 Des règles générales de partage entre héritiers
+#### Section 1 – Des règles générales de partage entre héritiers
 
 ###### Article 790
 
@@ -291,7 +291,7 @@ Dans la mesure du possible, les héritiers reçoivent des lots ayant la même co
 
 Le conseil de famille appelé à devoir fixer le partage sera composé de trois membres de la famille du *de cujus* dont deux au moins ne sont pas appelés à l'hérédité ou, à défaut, d'une ou de deux personnes étrangères acceptées par les héritiers.
 
-#### Section II Des règles générales de liquidation de la succession
+#### Section II – Des règles générales de liquidation de la succession
 
 ###### Article 794
 
@@ -340,7 +340,7 @@ Dans le règlement des charges de la succession, le liquidateur doit respecter l
 
 Le liquidateur a droit à une rémunération si le travail qu'il a accompli justifie celle-ci, soit d'accord avec les héritiers légaux, soit dans les conditions déterminées par le *de cujus*, soit par décision du tribunal en cas de liquidation judiciaire.
 
-#### Section III De l'option des héritiers et des légataires
+#### Section III – De l'option des héritiers et des légataires
 
 ###### Article 800
 
@@ -378,7 +378,7 @@ La renonciation ne devient irrévocable qu'au jour où le délai de trois mois p
 
 Toutefois, si la renonciation n'est pas retirée un an après la cessation de la violence ou de la menace ou de la découverte du dol dont l'héritier a été victime, elle devient irrévocable.
 
-#### Section IV Des règles spéciales
+#### Section IV – Des règles spéciales
 
 ###### Article 807
 
@@ -405,7 +405,7 @@ Toutefois, cette décision peut toujours être revue sur requête motivée du li
 
 Outre les dispositions prescrites à l'article [789](#article-789), le droit de reprise, si certains héritiers sont mineurs ou interdits, ne peut être homologué par le tribunal de paix qu'après avoir pris avis du conseil de famille et du liquidateur. Le tribunal de paix devra fixer les charges incombant à celui qui exerce le droit de reprise vis-à-vis des héritiers mineurs ou interdits.
 
-###### Article 811 bis
+###### Article 811 – b
 
 La succession des conjoints décédés, et dont les héritiers de la première catégorie sont tous en âge de minorité, ne peut être liquidée avant que certains héritiers ne soient majeurs.
 
@@ -426,7 +426,7 @@ Dès leur désignation, les administrateurs sont tenus de déclarer leurs biens 
 
 Jusqu’à la désignation du liquidateur, les administrateurs posent tous les actes de gestion et d’administration prévus à l’article [797](#article-797) de la présente loi, à l’exception des actes de disposition et de liquidation de la succession.
 
-###### Article 811 ter
+###### Article 811 – t
 
 Est puni des peines prévues à l’article [168](#article-168) de la Loi n° 09/001 du 10 janvier 2009 portant protection de l’enfant, tout administrateur qui aura détruit, altéré, fait disparaitre ou qui se sera volontairement attribué des biens du *de cujus* sous son administration.
 
@@ -476,7 +476,7 @@ ___
 
 ### CHAPITRE I – DES DISPOSITIONS GÉNÉRALES
 
-#### Section 1 Des espèces et formes des libéralités
+#### Section 1 – Des espèces et formes des libéralités
 
 ###### Article 819
 
@@ -525,7 +525,7 @@ Elle est à titre universel lorsque le droit transmis a pour objet une quote-par
 
 La libéralité est à titre particulier lorsque le droit transmis a pour objet un seul bien déterminé.
 
-#### Section II Du consentement du disposant et du gratifié.
+#### Section II – Du consentement du disposant et du gratifié.
 
 ###### Article 827
 
@@ -545,7 +545,7 @@ Même s'il émane d'un tiers, le dol est une cause de nullité de la libéralit�
 
 La crainte révérencielle envers le père, la mère ou un autre ascendant, sans qu'il y ait de violence exercée, peut être une cause de nullité de la libéralité.
 
-#### Section III De la capacité de disposer et de recevoir
+#### Section III – De la capacité de disposer et de recevoir
 
 ###### Article 831
 
@@ -555,7 +555,7 @@ Sous réserve des incapacités prévues par les dispositions qui suivent, toute 
 
 Les incapacités prévues par la loi sont impératives. Toute convention contraire est de nul effet.
 
-##### Paragraphe 1 : Des incapacités de disposer.
+##### Paragraphe 1 – Des incapacités de disposer.
 
 ###### Article 833
 
@@ -587,7 +587,7 @@ Le failli peut, pendant la période suspecte, faire une donation rémunératoire
 
 Il peut par testament disposer de ses biens, mais ses légataires ne peuvent être payés qu'après la masse des créanciers.
 
-##### Paragraphe 2 : Des incapacités de recevoir
+##### Paragraphe 2 – Des incapacités de recevoir
 
 ###### Article 839
 
@@ -623,7 +623,7 @@ Sont exceptées :
 1. les dispositions rémunératoires faites à titre particulier, eu égard aux facultés du disposant et aux services rendus.
 2. les dispositions universelles, dans le cas de parenté ou d'alliance jusqu'à la troisième catégorie inclusivement, pourvu que le décédé n'ait pas d'héritier d'une catégorie supérieure en ligne directe et à moins que le bénéficiaire de la disposition ne soit lui-même du nombre de ces héritiers. Les mêmes règles sont applicables aux ministres de culte.
 
-#### Section IV De l'objet et de la cause des libéralités
+#### Section IV – De l'objet et de la cause des libéralités
 
 ###### Article 846
 
@@ -646,9 +646,9 @@ Une disposition entre vifs ou testamentaire, déterminée par un mobile contrair
 Dans toute disposition entre vifs ou testamentaire, les conditions impossibles, celles qui sont contraires aux lois ou aux bonnes mœurs sont réputées non écrites.
 
 
-#### Section V De la quotité des biens disponibles et de la réduction
+#### Section V – De la quotité des biens disponibles et de la réduction
 
-##### Paragraphe 1 : De la quotité disponible
+##### Paragraphe 1 – De la quotité disponible
 
 ###### Article 851
 
@@ -672,7 +672,7 @@ Une libéralité entre vifs faite à un héritier réservataire est réputée un
 
 Il en est de même de l'allotissement et de toute libéralité par testament faite à un réservataire.
 
-##### Paragraphe 2 : Des rapports
+##### Paragraphe 2 – Des rapports
 
 ###### Article 856
 
@@ -714,7 +714,7 @@ Il peut être exigé en nature, à l'égard des immeubles, toutes les fois que l
 
 Le rapport a lieu en moins prenant, quand le donataire a aliéné l'immeuble avant l'ouverture de la succession ; il comprend la valeur de l'immeuble à l'époque de la réalisation.
 
-##### Paragraphe 3 : De la réduction des libéralités excessives
+##### Paragraphe 3 – De la réduction des libéralités excessives
 
 ###### Article 866
 
@@ -747,13 +747,13 @@ Lorsque la valeur des donations entre vifs excède ou égale la quotité disponi
 
 ### CHAPITRE II – DES DONATIONS ENTRE VIFS
 
-#### Section I De la forme et des espèces des donations entre vifs
+#### Section I – De la forme et des espèces des donations entre vifs
 
 ###### Article 873
 
 La donation entre vifs est un contrat de bienfaisance par lequel une personne, le donateur, transfère actuellement et irrévocablement un droit patrimonial à une autre, le donataire qui l'accepte.
 
-##### Paragraphe 1 : De la forme des donations entre vifs
+##### Paragraphe 1 – De la forme des donations entre vifs
 
 ###### Article 874
 
@@ -775,7 +775,7 @@ La propriété des biens donnés n'est transférée au donataire que pour autant
 
 Les mineurs et les interdits ne sont point restitués contre le défaut d'acceptation ou de transcription des donations, sauf leur recours contre leurs tuteurs, s'il échet, et sans que la restitution puisse avoir lieu, dans le cas même où lesdits tuteurs se trouveraient insolvables.
 
-##### Paragraphe 2 : Des espèces des donations entre vifs
+##### Paragraphe 2 – Des espèces des donations entre vifs
 
 ###### Article 879
 
@@ -806,7 +806,7 @@ Pendant le mariage, il est permis aux époux de se faire toute espèce de donati
 Les donations entre époux sont régies par les dispositions du chapitre IV du présent titre.
 
 
-#### Section II Des conditions de fond
+#### Section II – Des conditions de fond
 
 ###### Article 885
 
@@ -824,7 +824,7 @@ Toute donation entre vifs dans laquelle le donateur se réserve le droit de disp
 
 Il est permis au donateur de faire la réserve à son profit ou de disposer au profit d'un autre de la jouissance ou de l'usufruit des biens meubles ou immeubles donnés.
 
-#### Section III Des exceptions à la règle de l'irrévocabilité des donations entre vifs
+#### Section III – Des exceptions à la règle de l'irrévocabilité des donations entre vifs
 
 ###### Article 889
 
@@ -905,7 +905,7 @@ Tous les enfants et les descendants des enfants prédécédés, excepté celui o
 L'action en nullité appartient aux enfants et à leurs descendants qui n'ont reçu aucune part ainsi qu'à ceux entre qui le partage avait été fait.
 
 
-### CHAPITRE IV – : DES INSTITUTIONS CONTRACTUELLES
+### CHAPITRE IV – DES INSTITUTIONS CONTRACTUELLES
 
 ###### Article 904
 

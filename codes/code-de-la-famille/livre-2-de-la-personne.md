@@ -8,14 +8,15 @@ previous: livre-1-de-la-nationalite
 next: livre-3-de-la-famille
 ---
 
-# LIVRE II DE LA PERSONNE
+### CODE DE LA FAMILLE DE LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
+# LIVRE II – DE LA PERSONNE
 ___
 
-## TITRE I DE L'IDENTIFICATION
+## TITRE I – DE L'IDENTIFICATION
 
 ### CHAPITRE I – DU NOM
 
-#### Section I Des principes généraux
+#### Section I – Des principes généraux
 
 ###### Article 56
 
@@ -54,7 +55,7 @@ L’enfant de père inconnu dont la mère décède à l’accouchement porte le 
 Dans le cas où l'un des parents transmet son nom à l'enfant, il est tenu, selon le cas, de lui adjoindre, au moins, un élément complémentaire différent du sien.
 
 
-#### Section III Des dispositions particulières
+#### Section III – Des dispositions particulières
 
 ###### Article 62
 
@@ -70,7 +71,7 @@ L’adopté peut prendre le nom de l’adoptant.
 L’adoptant peut également changer le nom de l’adopté avec son accord si ce dernier est âgé de quinze ans au moins. Cette modification se fait conformément aux dispositions des articles [64](#article-64) et [66](#article-66) ci- dessous.
 
 
-#### Section IV Du changement, de la modification ou de la radiation du nom.
+#### Section IV – Du changement, de la modification ou de la radiation du nom.
 
 ###### Article 64
 
@@ -97,7 +98,7 @@ Si la personne est mariée, cette transcription se fera également en marge de s
 Le greffier du Tribunal de paix ou celui du Tribunal pour enfants, selon le cas, transmettra également dans le même délai ces décisions pour publication au Journal officiel.
 
 
-#### Section V De la protection et de l'abus du nom
+#### Section V – De la protection et de l'abus du nom
 
 ###### Article 67
 
@@ -110,7 +111,7 @@ Toutefois, l'usage de son nom dans l'exercice de ses activités professionnelles
 Toute convention se rapportant au nom est sans valeur au regard de la présente loi, hormis les règles relatives au nom commercial.
 
 
-#### Section VI Des pénalités
+#### Section VI – Des pénalités
 
 ###### Article 69
 
@@ -121,7 +122,7 @@ Sans préjudice des autres dispositions pénales, l’usurpation volontaire et c
 Toute personne qui se sera volontairement attribué un nom en violation de l’article [58](#article-58) ci-dessus ou tout officier de l’état civil qui l’aura enregistré sciemment, sera puni d’une peine de servitude pénale principale de trente jours et d’une amende de 100.000 francs congolais au maximum ou de l’une de ces peines seulement.
 
 
-#### Section VII De la disposition spéciale
+#### Section VII – De la disposition spéciale
 
 ###### Article 71
 
@@ -131,13 +132,13 @@ ____
 ### CHAPITRE II – DE L'ETAT CIVIL
 
 
-#### Section I De la preuve de l'état civil
+#### Section I – De la preuve de l'état civil
 ###### Article 72
 
 Sauf dispositions spéciales prévues par la loi, l'état civil des citoyens n'est établi et ne peut être prouvé que par les actes de l'état civil.
 
 
-#### Section II Du ressort des bureaux de l'état civil
+#### Section II – Du ressort des bureaux de l'état civil
 
 ###### Article 73
 
@@ -154,7 +155,7 @@ Suivant les nécessités locales, le Gouverneur de province ou le Gouverneur de 
 Les actes de l’état civil du ou des bureaux secondaires sont indépendants de ceux du bureau principal.
 
 
-#### Section III Des officiers de l'état civil.
+#### Section III – Des officiers de l'état civil.
 
 ###### Article 76
 
@@ -202,7 +203,7 @@ Le bourgmestre, le chef du secteur ou de la chefferie avise sans délai le Gouve
 L’officier de l’état civil faisant fonction ou à défaut de ce dernier, le bourgmestre adjoint, le chef de secteur adjoint ou le premier échevin de la chefferie avise sans délai le Gouverneur de province ou le Gouverneur de la ville de Kinshasa du décès du bourgmestre, du chef de secteur ou de chefferie, de toute circonstance qui empêche celui-ci de remplir ses fonctions de façon durable.
 
 
-#### Section IV Des registres de l'état civil
+#### Section IV – Des registres de l'état civil
 
 ###### Article 82
 
@@ -289,7 +290,7 @@ Ils ne peuvent directement être consultés que par les magistrats chargés de l
 La consultation se fait sans déplacement, sauf quand elle est requise par le procureur de la république ou ordonnée par les tribunaux.
 
 
-#### Section V Des règles communes à tous les actes de l'état civil
+#### Section V – Des règles communes à tous les actes de l'état civil
 
 ###### Article 92
 
@@ -379,10 +380,10 @@ Si un ou plusieurs feuillets des parties d’un registre déposées au bureau ce
 Dans toutes les hypothèses où un ou des feuillets ont été perdus ou détruits, le dépositaire de ceux-ci est tenu d’avertir, sans délai, le Procureur de la République et d’établir un rapport expliquant les circonstances précises de cette perte ou de cette destruction.
 
 
-#### Section VI De la surveillance, de la responsabilité et des pénalités
+#### Section VI – De la surveillance, de la responsabilité et des pénalités
 
 
-##### Paragraphe 1 : Des autorités de surveillance et de contrôle.
+##### Paragraphe 1 – Des autorités de surveillance et de contrôle.
 
 ###### Article 102
 
@@ -404,7 +405,7 @@ Il indique, s'il y a lieu, les moyens qu'il juge propres à éviter que de telle
 
 Lors du dépôt du registre de l’état civil au greffe du Tribunal de grande instance, le Procureur de la République en vérifie l’état. Il adresse au ministre ayant la justice dans ses attributions un rapport sur la tenue des registres et sur les contrôles effectués en cours d’année par les Présidents des Tribunaux de paix ou par les juges qu’ils délèguent. Il relève les irrégularités et les infractions qui ont pu être commises et en poursuit la répression.
 
-##### Paragraphe 2 : De la rectification des actes de l'état civil.
+##### Paragraphe 2 – De la rectification des actes de l'état civil.
 
 ###### Article 105
 
@@ -446,7 +447,7 @@ Les jugements supplétifs et rectificatifs d'actes de l'état civil ainsi que la
 
 Les jugements supplétifs et rectificatifs des actes de l'état civil peuvent être frappés d'appel par le ministère public ou par toute personne intéressée.
 
-##### Paragraphe 3 : Des responsabilités civile et pénale.
+##### Paragraphe 3 – Des responsabilités civile et pénale.
 
 1. **De la responsabilité civile**
 
@@ -483,7 +484,7 @@ Sont punies conformément à l’article [124](#article-124) du Code pénal ordi
 Les mêmes peines sont appliquées à ceux qui auront donné la mission de commettre de fausses déclarations mentionnées à l’alinéa précédent si cette mission a reçu son exécution.
 
 
-#### Section VII Des règles propres aux actes de naissances
+#### Section VII – Des règles propres aux actes de naissances
 
 ###### Article 116
 
@@ -583,13 +584,13 @@ Le tribunal statue en chambre du conseil.
 Les extraits précisant en outre le nom, la profession, la nationalité et le domicile des père et mère ne peuvent être délivrés que dans les conditions de l’article [précédent](#article-précédent), à moins que la délivrance n’en soit demandée par les héritiers de l’enfant ou par l’administration publique.
 
 
-#### Section VIII Des règles propres aux actes de mariage
+#### Section VIII – Des règles propres aux actes de mariage
 
 ###### Article 131
 
 Les règles propres aux actes de mariage célébré en famille ou devant l'officier de l'état civil sont reprises au livre III, titre premier relatif au mariage.
 
-#### Section IX Des règles propres aux actes de décès
+#### Section IX – Des règles propres aux actes de décès
 
 ###### Article 132
 
@@ -680,7 +681,7 @@ Lorsqu'il rend un jugement déclaratif de décès, le tribunal fixe dans son jug
 Le jugement est annulé par le tribunal qui l'a rendu, soit à la demande de la personne déclarée décédée, soit à la demande du ministère public si la personne dont le décès a été judiciairement déclaré réapparaît.
 
 
-#### Section X Du livret de ménage
+#### Section X – Du livret de ménage
 
 ###### Article 148
 
@@ -713,9 +714,9 @@ En cas de mariage subséquent, le livret est annulé pour être remplacé par un
 Les dispositions des articles [149](#article-149), [150](#article-150) et [151](#article-151) ci-dessus sont, *mutatis mutandis*, d’application.
 
 
-#### Section XI Des actes de notoriété
+#### Section XI – Des actes de notoriété
 
-##### Paragraphe 1 : De l'acte de notoriété pour faits antérieurs à la loi
+##### Paragraphe 1 – De l'acte de notoriété pour faits antérieurs à la loi
 
 ###### Article 153
 A défaut d’acte de l’état civil constatant la naissance, le décès ou le mariage, sur la base des dispositions légales ou réglementaires antérieures à la présente loi, toute personne y ayant intérêt peut demander à l’officier de l’état civil du lieu de naissance, de décès ou de mariage, d’établir un acte de notoriété le suppléant.
@@ -747,7 +748,7 @@ Les requérants ou les témoins sont tenus d'attester les faits qu'ils déclaren
 
 Avant de dresser l'acte, l'officier de l'état civil leur donne lecture de l'alinéa premier de cet article [et](#article-et) les avise des peines prévues par la loi sanctionnant les fausses déclarations.
 
-##### Paragraphe 2 : De l'acte de notoriété pour faits postérieurs à la loi.
+##### Paragraphe 2 – De l'acte de notoriété pour faits postérieurs à la loi.
 
 ###### Article 157
 
@@ -770,7 +771,7 @@ Les requérants ou les témoins sont tenus d’attester les faits qu’ils décl
 Avant de dresser l’acte, le Président du Tribunal de paix ou celui du Tribunal pour enfants, selon le cas, leur donne lecture de l’alinéa premier de cet article [et](#article-et) les avise des peines prévues par la loi sanctionnant les fausses déclarations.
 
 
-#### Section XII Des modèles des registres des actes de l'état civil
+#### Section XII – Des modèles des registres des actes de l'état civil
 
 ###### Article 160
 
@@ -781,7 +782,7 @@ d’affiliation ou d’adoption sont établis par arrêté du ministre ayant la 
 ____
 ### CHAPITRE III – DU DOMICILE ET DE LA RESIDENCE
 
-#### Section I Du domicile
+#### Section I – Du domicile
 
 ###### Article 161
 
@@ -824,7 +825,7 @@ Les personnes morales ont leur domicile:
 Toute personne peut élire domicile pour l'exécution de tous actes. L’élection doit être expresse et ne peut se faire que par écrit.
 Toutes significations, demandes et poursuites pour l'exécution d'un acte pour lequel domicile a été élu, peuvent être valablement faites à ce domicile et devant le juge dudit domicile.
 
-#### Section II De la résidence
+#### Section II – De la résidence
 
 ###### Article 169
 
@@ -846,7 +847,7 @@ Les commerçants ont une résidence au lieu où ils exercent leurs activités.
 ____
 ### CHAPITRE IV – DE L'ABSENCE ET DE LA DISPARITION
 
-#### Section I Des généralités
+#### Section I – Des généralités
 
 ###### Article 173
 
@@ -865,9 +866,9 @@ La présomption de vie est détruite lorsqu''une personne a disparu dans des cir
 Indépendamment du cas de la disparition prévue à l'article [174](#article-174), la présomption de vie est détruite en prouvant que le disparu est décédé à une époque antérieure; la présomption de mort, par la preuve que l'absent est décédé à une autre époque ou vivait encore à une époque postérieure.
 
 
-#### Section II De l'absence
+#### Section II – De l'absence
 
-##### Paragraphe 1 : De la présomption d'absence
+##### Paragraphe 1 – De la présomption d'absence
 
 ###### Article 176
 
@@ -909,7 +910,7 @@ Si le tribunal juge utile, le mandataire ou l'administrateur donne caution ou ca
 
 Le ministère public est spécialement chargé de veiller aux intérêts de ceux qui sont absents.
 
-##### Paragraphe 2 : Du jugement déclaratif d'absence
+##### Paragraphe 2 – Du jugement déclaratif d'absence
 ###### Article 184
 
 Le tribunal, en statuant sur la requête en déclaration d'absence, de toute personne intéressée ou du ministère public, a égard aux motifs de l'absence et aux causes qui ont pu empêcher d'avoir des nouvelles de la personne présumée absente.
@@ -924,7 +925,7 @@ La requête introductive et le jugement ordonnant l’enquête sont publiés par
 
 Le jugement déclaratif d’absence n’est rendu que six mois après la requête introductive et sa publication est assurée comme dit à l’article [précédent](#article-précédent). Copie authentique en est adressée au journal officiel par le Ministère public pour publication.
 
-##### Paragraphe 3 : Des effets du jugement déclaratif d'absence
+##### Paragraphe 3 – Des effets du jugement déclaratif d'absence
 ###### Article 187
 
 Les héritiers présomptifs de l'absent, au jour de son départ ou de ses dernières nouvelles, peuvent, en vertu du jugement qui a déclaré l'absence, obtenir l'envoi en possession provisoire des biens qui lui appartenaient au jour de son départ ou de ses dernières nouvelles à charge de donner caution ou cautionnement éventuel pour la sûreté de leur administration.
@@ -949,7 +950,7 @@ Dans l'un ou l'autre cas, il doit donner caution et cautionnement.
 
 La femme, optant pour la continuation provisoire d'un des deux régimes de communauté, conserve le droit d'y renoncer.
 
-##### Paragraphe 4 : Du jugement déclaratif de décès et de ses effets.
+##### Paragraphe 4 – Du jugement déclaratif de décès et de ses effets.
 ###### Article 191
 
 Lorsque depuis le moment où la présomption de vie a cessé, tel que précisé aux articles [173](#article-173) et [174](#article-174) de la présente loi, il s’est écoulé cinq ans de plus sans qu’on ait reçu aucune nouvelle certaine de la vie de l’absent, il y a présomption de mort.
@@ -980,7 +981,7 @@ Le jugement déclaratif de décès de l'absent autorise le conjoint survivant à
 
 Si, depuis la date où il est intervenu et avant la célébration d'un nouveau mariage, l'absent réapparaît, la faculté prévue à l'alinéa précédent est réputée non avenue.
 
-##### Paragraphe 5 : Des règles communes aux périodes de l'absence
+##### Paragraphe 5 – Des règles communes aux périodes de l'absence
 
 ###### Article 197
 
@@ -1027,7 +1028,7 @@ Les dispositions des deux articles précédents s'appliquent sans préjudice des
 Les jugements déclaratifs d’absence ou de décès sont transcrits dans le mois par les soins du Ministère public, en marge des actes de l’état civil de la commune, du secteur ou de la chefferie dans laquelle l’intéressé avait son dernier domicile ou sa dernière résidence.
 
 
-#### Section III De la disparition
+#### Section III – De la disparition
 
 ###### Article 206
 
@@ -1055,7 +1056,7 @@ La personne qui réapparaît conserve cependant un recours contre ses héritiers
 
 __
 
-## TITRE II DE LA CAPACITE
+## TITRE II – DE LA CAPACITE
 
 ### CHAPITRE I – DES PRINCIPES GENERAUX
 
@@ -1097,7 +1098,7 @@ Lorsque le tuteur ou le curateur désigné par le Tribunal pour enfants ou par l
 ____
 ### CHAPITRE II – DES MINEURS
 
-#### Section I Des dispositions générales
+#### Section I – Des dispositions générales
 
 ###### Article 219
 
@@ -1113,7 +1114,7 @@ Le mineur est, pour ce qui concerne le gouvernement de sa personne, placé sous 
 
 Il est, pour ce qui concerne ses intérêts pécuniaires et l'administration de ses biens, protégé par les mêmes personnes.
 
-#### Section II De la tutelle des mineurs
+#### Section II – De la tutelle des mineurs
 
 ###### Article 222
 
@@ -1194,7 +1195,7 @@ La tutelle ordinaire prend fin à la majorité.
 Sur décision du tribunal saisi par un membre du conseil de famille dument mandaté ou par le Ministère public, le tuteur peut être déchargé de la tutelle du mineur lorsqu’il s’est compromis gravement dans l’exercice de sa fonction de tuteur ou lorsqu’il a fait l’objet d’une condamnation judiciaire devenue définitive à la suite d’une infraction qui porte atteinte à l’honneur et à la dignité de sa fonction de tuteur.
 
 
-#### Section III De la tutelle de l'Etat Paragraphe 1 : Des principes fondamentaux.
+#### Section III – De la tutelle de l'Etat Paragraphe 1 : Des principes fondamentaux.
 ###### Article 237
 
 La tutelle de certains mineurs est déférée à l'Etat. Ces mineurs sont appelés pupilles de l'Etat.
@@ -1203,7 +1204,7 @@ La tutelle de certains mineurs est déférée à l'Etat. Ces mineurs sont appel�
 
 Sauf les dérogations prévues par la loi, la capacité des pupilles de l'Etat est régie par les règles ordinaires de la capacité.
 
-##### Paragraphe 2 : De l'ouverture de la tutelle de l'Etat
+##### Paragraphe 2 – De l'ouverture de la tutelle de l'Etat
 ###### Article 239
 
 Les mineurs dont les père et mère sont inconnus, les mineurs abandonnés, les mineurs orphelins sans famille et, le cas échéant, les mineurs dont le ou les auteurs sont déchus de l'autorité parentale, sont placés sous la tutelle de l'Etat conformément aux dispositions des articles [246](#article-246) à [275](#article-275).
@@ -1234,7 +1235,7 @@ Est déférée à l’Etat la tutelle des mineurs dont le ou les parents sont d�
 
 Le tribunal compétent défère la tutelle à l’Etat au moment où il prononce la déchéance de l’autorité parentale ou postérieurement à cette décision, à la demande de toute personne intéressée.
 
-##### Paragraphe 3 : De l'organisation de la tutelle de l'Etat
+##### Paragraphe 3 – De l'organisation de la tutelle de l'Etat
 
 1. **Des règles générales**
 ###### Article 246
@@ -1438,7 +1439,7 @@ En attendant que le conseil de tutelle prenne une décision, les autorités vis�
 
 Elles se conforment aux instructions que leur donne le président du conseil de tutelle.
 
-##### Paragraphe 4 : De la fin de la tutelle de l'Etat
+##### Paragraphe 4 – De la fin de la tutelle de l'Etat
 ###### Article 279
 
 La tutelle prend fin à la majorité du pupille.
@@ -1467,7 +1468,7 @@ La tutelle de l’État envers les enfants des père et mère déchus de l’aut
 
 Lorsque le conseil de tutelle est d’avis qu’une personne, disposée à assumer la tutelle envers un pupille de l’Etat, conformément aux dispositions relatives à exercer cette fonction, il peut confier le mineur à cette personne. La tutelle de cette personne ne devient effective que si le Tribunal pour enfants, décidant à la requête de tout intéressé, la désigne en qualité de tuteur.
 
-##### Paragraphe 5 : Des dispositions financières
+##### Paragraphe 5 – Des dispositions financières
 
 ###### Article 284
 
@@ -1491,7 +1492,7 @@ Dans ce cas, les allocations familiales ne sont pas versées aux père et mère 
 
 Dans la mesure où il supporte les frais d'entretien et d'éducation du pupille, l'Etat est subrogé dans les droits du pupille envers les débiteurs d'aliments.
 
-##### Paragraphe 6 : Des mineurs temporairement recueillis
+##### Paragraphe 6 – Des mineurs temporairement recueillis
 
 ###### Article 287
 
@@ -1500,7 +1501,7 @@ Le conseil de tutelle peut accepter de recueillir temporairement les mineurs qui
 Ces mineurs sont assimilés aux pupilles de l'Etat quant à leur entretien et leur surveillance.
 
 
-#### Section IV De l'émancipation
+#### Section IV – De l'émancipation
 
 ###### Article 288
 > *Abrogé par la Loi n° 16/008 du 15 juillet 2016*
@@ -1530,7 +1531,7 @@ Le mineur émancipé par décision judiciaire ne peut passer les actes pour lesq
 Le curateur est la personne qui avait l'autorité parentale ou tutélaire. A défaut de cette personne, le curateur est désigné conformément aux dispositions de l'article [224](#article-224).
 
 
-#### Section V De la sanction des actes irrégulièrement accomplis par le mineur
+#### Section V – De la sanction des actes irrégulièrement accomplis par le mineur
 ###### Article 294
 
 Les actes accomplis irrégulièrement par le mineur non émancipé ou par le mineur émancipé sont nuls de nullité relative.
@@ -1556,7 +1557,7 @@ En dehors de ce cas, ils sont nuls, mais le mineur n'a pas à restituer ce qu'il
 ____
 ### CHAPITRE III – DES HANDICAPES, DES INFIRMES ET DES PRODIGUES
 
-#### Section I Des règles générales
+#### Section I – Des règles générales
 
 ###### Article 298
 
@@ -1571,7 +1572,7 @@ L'altération des facultés mentales ou corporelles doit être constatée par le
 Les régimes visés à l'article [précédent](#article-précédent) peuvent être soit l'interdiction judiciaire soit la mise sous curatelle.
 
 
-#### Section II De l'interdiction
+#### Section II – De l'interdiction
 ###### Article 300
 
 Les personnes qui sont dans un état habituel de démence ou d'imbécillité peuvent être interdites dès l'âge de la majorité, ou après leur émancipation même lorsque cet état présente des intervalles lucides.
@@ -1623,7 +1624,7 @@ L'interdit et les personnes ayant le droit de provoquer l'interdiction peuvent s
 Un extrait du jugement d'interdiction ainsi que de mainlevée est, dans le mois de la décision, envoyé par le greffier du tribunal à l'officier de l'état civil du lieu où avait été établi l'acte de naissance de l'interdit aux fins d'inscription en marge de cet acte et transmis au journal officiel pour publication.
 
 
-#### Section III Des personnes placées sous curatelle
+#### Section III – Des personnes placées sous curatelle
 ###### Article 310
 
 Les faibles d'esprit, les prodigues et les personnes dont les facultés corporelles sont altérées par la maladie ou l'âge et toute autre personne qui le demanderait, peuvent être placés sous l'assistance d'un curateur, nommé par le tribunal de paix, dès l'âge de la majorité.
@@ -1656,7 +1657,7 @@ Un extrait du jugement de mise sous curatelle ainsi que de mainlevée est, dans 
 ____
 ### CHAPITRE IV – DE L'AUTORITE PARENTALE
 
-#### Section I De l'attribution de l'autorité parentale
+#### Section I – De l'attribution de l'autorité parentale
 
 ###### Article 316
 
@@ -1722,7 +1723,7 @@ Lorsque la garde a été confiée à un tiers, les autres attributs de l’autor
 
 Toutefois, le tribunal, en désignant un tiers comme gardien, peut décider qu’il devra requérir l’ouverture d’une tutelle.
 
-#### Section II Des conséquences de l'autorité parentale
+#### Section II – Des conséquences de l'autorité parentale
 
 ###### Article 326
 

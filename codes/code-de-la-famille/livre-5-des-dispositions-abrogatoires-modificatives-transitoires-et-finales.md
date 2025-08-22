@@ -5,14 +5,13 @@ author: PRÉSIDENCE DE LA RÉPUBLIQUE
 name: LOI N° 04/024 DU 12 NOVEMBRE 2004 RÉLATIVE À LA NATIONALITÉ CONGOLAISE
 date: 11-12-2004
 previous: livre-4-des-successions-et-des-liberalites
-next:
 ---
 
+### CODE DE LA FAMILLE DE LA RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
 # LIVRE V – DES DISPOSITIONS ABROGATOIRES, MODIFICATIVES, TRANSITOIRES ET FINALES
-
 ___
 
-## TITRE I DES DISPOSITIONS ABROGATOIRES
+## TITRE I – DES DISPOSITIONS ABROGATOIRES
 
 
 ###### Article 915
@@ -41,9 +40,9 @@ ___
 
 ___
 
-## TITRE II DES DISPOSITIONS TRANSITOIRES ET MODIFICATIVES
+## TITRE II – DES DISPOSITIONS TRANSITOIRES ET MODIFICATIVES
 
-###### Article 920 bis
+###### Article 920 – b
 
 Sont abrogés l’alinéa 2 de l’article [18](#article-18), les articles 19 et 20 de la [Loi n°09/001 du 10 janvier 2009](##article-19) portant protection de l’enfant.
 
@@ -59,7 +58,7 @@ Sont abrogés l’alinéa 2 de l’article [18](#article-18), les articles 19 et
 
 Dans le délai de six mois à partir de leur constitution, les conseils de tutelle examineront les cas des mineurs dont la tutelle a été déférée à l'Etat, en vertu de la législation ancienne et les soumettront aux dispositions prévues par la présente loi.
 
-###### Article 923 bis
+###### Article 923 – b
 
 En entendant les mesures d’exécution prévues à l’article [691](#article-691) bis et la création de l’organisme public chargé des adoptions, prévu à l’article [652](#article-652) de la présente loi, l’examen de nouveaux dossiers d’adoption internationale des enfants congolais est suspendu.
 
@@ -116,7 +115,7 @@ Après un an, si les époux n'ont pas fait de déclaration d'option, ils ne pour
 
 ___
 
-## TITRES III DES DISPOSITIONS FINALES
+## TITRES III – DES DISPOSITIONS FINALES
 
 ###### Article 932
 
